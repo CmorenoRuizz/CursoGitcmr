@@ -3,4 +3,5 @@ body{
     background-color: blue;
     padding: 50px;
     font-size: 18px;
+    flex: auto;
 }
